@@ -1,3 +1,3 @@
 .PHONY: test
 test:
-	tap test/
+	npx tap test/
